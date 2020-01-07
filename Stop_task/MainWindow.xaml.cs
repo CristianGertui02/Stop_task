@@ -37,7 +37,7 @@ namespace Stop_task
            
         }
 
-      
+       
 
         private void Dowork(int max, int delay, Label lbl)
         {
