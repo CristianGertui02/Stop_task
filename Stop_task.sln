@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stop_task", "Stop_task\Stop_task.csproj", "{957F141C-A042-45FA-BF70-460BBDE34403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957F141C-A042-45FA-BF70-460BBDE34403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957F141C-A042-45FA-BF70-460BBDE34403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957F141C-A042-45FA-BF70-460BBDE34403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957F141C-A042-45FA-BF70-460BBDE34403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {967F931B-B1B8-4747-A56F-EE85662BFB08}
+	EndGlobalSection
+EndGlobal
